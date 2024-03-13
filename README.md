@@ -1,3 +1,3 @@
 # gitpoc
 git-poc
-test the code edited
+test the code fix
