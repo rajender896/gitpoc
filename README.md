@@ -1,3 +1,0 @@
-# gitpoc
-git-poc
-
